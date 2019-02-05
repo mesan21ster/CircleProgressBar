@@ -1,0 +1,9 @@
+C:\Users\santosk\Source\Repos\CircleProgressBar\CircleProgressBarCSS\bin\CircleProgressBarCSS.dll.config
+C:\Users\santosk\Source\Repos\CircleProgressBar\CircleProgressBarCSS\bin\CircleProgressBarCSS.dll
+C:\Users\santosk\Source\Repos\CircleProgressBar\CircleProgressBarCSS\bin\CircleProgressBarCSS.pdb
+C:\Users\santosk\Source\Repos\CircleProgressBar\CircleProgressBarCSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\santosk\Source\Repos\CircleProgressBar\CircleProgressBarCSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\santosk\Source\Repos\CircleProgressBar\CircleProgressBarCSS\obj\Debug\CircleProgressBarCSS.csprojResolveAssemblyReference.cache
+C:\Users\santosk\Source\Repos\CircleProgressBar\CircleProgressBarCSS\obj\Debug\CircleProgressBarCSS.csproj.CoreCompileInputs.cache
+C:\Users\santosk\Source\Repos\CircleProgressBar\CircleProgressBarCSS\obj\Debug\CircleProgressBarCSS.dll
+C:\Users\santosk\Source\Repos\CircleProgressBar\CircleProgressBarCSS\obj\Debug\CircleProgressBarCSS.pdb
